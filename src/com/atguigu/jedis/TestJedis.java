@@ -53,6 +53,7 @@ public class TestJedis {
 		
 		for (String string : lrange) {
 			System.out.println(string);
+			System.out.println(string);
 		}
 		
 	}
